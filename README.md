@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://4kwallpapers.com/images/walls/thumbs_3t/15168.png" alt="png" /> </p>
 <h1 align="center">Hi 👋, I'm Ahmed Dib</h1>
 <h3 align="center">Cybersecurity • KI-Agenten • Automationen</h3>
 
